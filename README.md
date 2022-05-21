@@ -5,7 +5,9 @@
 the images of the charts on the dashboard
 
 ## The bar-chart 
-![head-pic]
+![head-pic](https://github.com/TahaniSury/Plotly-deploy/blob/main/images/bar-chart.png)
+
 ## The Bubble-chart
+
 
 ## The Gauage-chart
