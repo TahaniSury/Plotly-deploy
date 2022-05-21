@@ -8,6 +8,6 @@ the images of the charts on the dashboard
 ![head-pic](https://github.com/TahaniSury/Plotly-deploy/blob/main/images/bar-chart.png)
 
 ## The Bubble-chart
-
+![head-pic](https://github.com/TahaniSury/Plotly-deploy/blob/main/images/bubble-chart.png)
 
 ## The Gauage-chart
